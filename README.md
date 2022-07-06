@@ -17,6 +17,11 @@ Já conheço linguagens como **HTML**, **CSS**, **JavaScript** e estou aprendend
 <a href="https://instagram.com/https://www.instagram.com/eliasmanica/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eliasmanica/" height="30" width="40" /></a>
 </p>
 
+---
+
+[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=Elias-Manica)](https://github.com/Elias-Manica/github-readme-stats)
+
+<img align="left" width="33%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Manica&layout=compact&langs_count=10" alt="My github stats">
 <!--
 **Elias-Manica/Elias-Manica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
