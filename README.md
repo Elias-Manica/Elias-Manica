@@ -4,6 +4,9 @@
 
 ---
 
+<h3 align="center">Estudante de Desenvolvimento web </h3><br>
+
+✨ Apenas um estudante de engenharia que acabou descobrindo uma paixão pela computação e decidiu entrar de cabeça nesse mundo.
 <!--
 **Elias-Manica/Elias-Manica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
