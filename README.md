@@ -11,7 +11,7 @@
 Estou fazendo um bootcamp intensivo da Driven Education para me tornar um Desenvolvedor Web FullStack 🤓 
 Já conheço linguagens como **HTML**, **CSS**, **JavaScript** e estou aprendendo, no momento, **React**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Pode me chamar lá:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eliasmanica/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliasmanica/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/eliasmanica/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eliasmanica/" height="30" width="40" /></a>
