@@ -6,7 +6,10 @@
 
 <h3 align="center">Estudante de Desenvolvimento web </h3><br>
 
-⚙️ Apenas um estudante de engenharia que acabou descobrindo uma paixão pela computação e decidiu entrar de cabeça nesse mundo. 🤓
+⚙️ Apenas um estudante de engenharia que acabou descobrindo uma paixão pela computação e decidiu entrar de cabeça nesse mundo. 
+
+Estou fazendo um bootcamp intensivo da Driven Education para me tornar um Desenvolvedor Web FullStack 🤓 
+Já conheço linguagens como **HTML**, **CSS**, **JavaScript** e estou aprendendo, no momento, **React**
 <!--
 **Elias-Manica/Elias-Manica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
