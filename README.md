@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h3 align="center">🤔 Elias Manica 🤔</h3>
+
+---
+
 <!--
 **Elias-Manica/Elias-Manica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
