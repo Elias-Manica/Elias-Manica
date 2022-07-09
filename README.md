@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24" />
 
 <h3 align="center">🤔 Elias Manica 🤔</h3>
 
