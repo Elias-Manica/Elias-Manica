@@ -9,13 +9,13 @@
 ⚙️ Apenas um estudante de engenharia que acabou descobrindo uma paixão pela computação e decidiu entrar de cabeça nesse mundo. 
 
 Estou fazendo um bootcamp intensivo da Driven Education para me tornar um Desenvolvedor Web FullStack 🤓 
-Já conheço linguagens como **HTML**, **CSS**, **JavaScript** e estou aprendendo, no momento, **React**
+Já conheço linguagens como **HTML**, **CSS**, **JavaScript**, **React** e estou aprendendo, no momento **Node.JS**
 
 
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
   </a>
 </p>
   
