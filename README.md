@@ -8,6 +8,10 @@
 
 ⚙️ Apenas um estudante de engenharia que acabou descobrindo uma paixão pela computação e decidiu entrar de cabeça nesse mundo. 
 
+
+No momento atuo como um membro externo na Empresa Junior Fluxo Consultoria ajudando em projetos de React Native
+
+
 Estou fazendo um bootcamp intensivo da Driven Education para me tornar um Desenvolvedor Web FullStack 🤓 
 Já conheço linguagens como **HTML**, **CSS**, **JavaScript**, **React** e estou aprendendo, no momento **Node.JS**
 
