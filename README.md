@@ -13,7 +13,7 @@ No momento atuo como um membro externo na Empresa Junior Fluxo Consultoria consu
 
 
 Estou fazendo um bootcamp intensivo da Driven Education para me tornar um Desenvolvedor Web FullStack 🤓 
-Já conheço linguagens como **HTML**, **CSS**, **JavaScript**, **React** e estou aprendendo, no momento **Node.JS**
+Já conheço ferramentas como **HTML**, **CSS**, **JavaScript**, **React** e estou aprendendo, no momento **Node.JS**
 
 
   
