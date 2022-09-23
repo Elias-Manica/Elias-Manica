@@ -19,10 +19,17 @@ Já conheço ferramentas como **HTML**, **CSS**, **JavaScript**, **React** e est
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs," />
   </a>
 </p>
   
+ E bancos de dados como o **Mongodb**:
+ 
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+</p>
   
   
 
