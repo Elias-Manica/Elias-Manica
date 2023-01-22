@@ -4,39 +4,45 @@
 
 ---
 
-<h3 align="center">Estudante de Desenvolvimento web </h3><br>
+<h3 align="center">I'm a Full Stack Software Engineer</h3><br>
 
-⚙️ Apenas um estudante de engenharia que acabou descobrindo uma paixão pela computação e decidiu entrar de cabeça nesse mundo. 
-
-
-No momento atuo como um membro externo na Empresa Junior Fluxo Consultoria consultando em projetos de React Native
+⚙️ I was just an engineering student who ended up discovering a passion for computing and decided to dive into that world.
 
 
-Estou fazendo um bootcamp intensivo da Driven Education para me tornar um Desenvolvedor Web FullStack 🤓 
-Já conheço ferramentas como **HTML**, **CSS**, **JavaScript**, **React** e estou aprendendo, no momento **Node.JS**
+I am a brazilian developer and currently work as an external member at the junior company Fluxo Consultoria in React Native projects
+
+
+I'm a student of the Driven Education bootcamp that helps me become a FullStack Web Developer 🤓 I already know tools like **HTML**, **CSS**, **JavaScript**, **React**, **Node.JS** and **Typescript** 
 
 
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,ts" />
   </a>
 </p>
   
- E bancos de dados como o **Mongodb**:
+ I know databases like **Mongodb** and **Postgres**:
  
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  </a>
+</p>
+
+ And I'm also improving other skills like **AWS**, **Docker**, **Redis**, **Jest** and **Prisma**:
+ 
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,redis,jest,prisma" />
   </a>
 </p>
   
   
 
-<h3 align="left">Pode me chamar lá:</h3>
+<h3 align="left">You can call me on my linkedin or send a email to eliasmanica@poli.ufrj.br:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/eliasmanica/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliasmanica/" height="30" width="40" /></a>
-  <a href="https://instagram.com/eliasmanica/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eliasmanica/" height="30" width="40" /></a>
 </p>
 
 ---
