@@ -40,7 +40,7 @@ I'm a student of the Driven Education bootcamp that helps me become a FullStack 
   
   
 
-<h3 align="left">You can call me on my linkedin or send a email to eliasmanica@poli.ufrj.br:</h3>
+You can call me on my linkedin or send a email to **eliasmanica@poli.ufrj.br**:
 <p align="left">
   <a href="https://linkedin.com/in/eliasmanica/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliasmanica/" height="30" width="40" /></a>
 </p>
