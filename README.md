@@ -9,7 +9,7 @@
 ⚙️ Apenas um estudante de engenharia que acabou descobrindo uma paixão pela computação e decidiu entrar nesse mundo.
 
 
-Sou um desenvolvedor que, atualmente, trabalha como um membro externo na empresa júnior Fluxo Consultoria em projetos que utilizam o React Native
+Sou um desenvolvedor que, atualmente, trabalha como um membro externo na empresa júnior Fluxo Consultoria em projetos que utilizam React e React Native
 
 
 Também sou um aluno do bootcamp da Driven Education que me ajudou a me transformar em um Desenvolvedor Web FullStack 🤓 
