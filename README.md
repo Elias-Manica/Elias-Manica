@@ -4,15 +4,17 @@
 
 ---
 
-<h3 align="center">I'm a Full Stack Software Engineer</h3><br>
+<h3 align="center">Engenheiro de Software FullStack</h3><br>
 
-⚙️ I was just an engineering student who ended up discovering a passion for computing and decided to dive into that world.
-
-
-I am a brazilian developer and currently work as an external member at the junior company Fluxo Consultoria in React Native projects
+⚙️ Apenas um estudante de engenharia que acabou descobrindo uma paixão pela computação e decidiu entrar nesse mundo.
 
 
-I'm a student of the Driven Education bootcamp that helps me become a FullStack Web Developer 🤓 I already know tools like **HTML**, **CSS**, **JavaScript**, **React**, **Node.JS** and **Typescript** 
+Sou um desenvolvedor que, atualmente, trabalha como um membro externo na empresa júnior Fluxo Consultoria em projetos que utilizam o React Native
+
+
+Também sou um aluno do bootcamp da Driven Education que me ajudou a me transformar em um Desenvolvedor Web FullStack 🤓 
+
+Já conheço ferramentas como **HTML**, **CSS**, **JavaScript**, **React**, **Node.JS** e **Typescript** 
 
 
   
@@ -22,7 +24,7 @@ I'm a student of the Driven Education bootcamp that helps me become a FullStack 
   </a>
 </p>
   
- I know databases like **Mongodb** and **Postgres**:
+ Conheço banco de dados como **Mongodb** e **Postgres**:
  
  <p align="center">
   <a href="https://skillicons.dev">
@@ -30,7 +32,7 @@ I'm a student of the Driven Education bootcamp that helps me become a FullStack 
   </a>
 </p>
 
- And I'm also improving other skills like **AWS**, **Docker**, **Redis**, **Jest** and **Prisma**:
+ E também estou tentando me aprimorar em **AWS**, **Docker**, **Redis**, **Jest** e **Prisma**:
  
  <p align="center">
   <a href="https://skillicons.dev">
@@ -40,7 +42,7 @@ I'm a student of the Driven Education bootcamp that helps me become a FullStack 
   
   
 
-You can call me on my linkedin or send a email to **eliasmanica@poli.ufrj.br**:
+Você pode me chamar lá no Linkedin ou mandar um email para **eliasmanica@poli.ufrj.br**:
 <p align="left">
   <a href="https://linkedin.com/in/eliasmanica/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliasmanica/" height="30" width="40" /></a>
 </p>
