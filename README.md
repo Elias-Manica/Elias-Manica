@@ -49,6 +49,4 @@ Você pode me chamar lá no Linkedin ou mandar um email para **eliasmanica@poli.
 
 ---
 
-[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=Elias-Manica&show_icons=true&theme=dark)](https://github.com/Elias-Manica/github-readme-stats)
-
 <img align="left" width="33%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Manica&layout=compact&langs_count=10&theme=dark" alt="My github stats">
