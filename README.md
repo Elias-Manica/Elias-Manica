@@ -46,7 +46,3 @@ Você pode me chamar lá no Linkedin ou mandar um email para **eliasmanica@poli.
 <p align="left">
   <a href="https://linkedin.com/in/eliasmanica/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliasmanica/" height="30" width="40" /></a>
 </p>
-
----
-
-<img align="left" width="33%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Manica&layout=compact&langs_count=10&theme=dark" alt="My github stats">
