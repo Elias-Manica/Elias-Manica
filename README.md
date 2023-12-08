@@ -6,13 +6,11 @@
 
 <h3 align="center">Engenheiro de Software FullStack</h3><br>
 
-⚙️ Apenas um estudante de engenharia que acabou descobrindo uma paixão pela computação e decidiu entrar nesse mundo.
+⚙️ Apenas um estudante que acabou descobrindo uma paixão pela computação e decidiu entrar de cabeça nesse mundo.
 
 
-Sou um desenvolvedor que, atualmente, trabalha como um membro externo na empresa júnior Fluxo Consultoria em projetos que utilizam React e React Native
-
-
-Também sou um aluno do bootcamp da Driven Education que me ajudou a me transformar em um Desenvolvedor Web FullStack 🤓 
+Sou um desenvolvedor que, atualmente, trabalho como Front-end na ArcoTech. Também estou me dedicando aos estudos de Análise e Desenvolvimento de Sistemas na Univates.
+ 
 
 Já conheço ferramentas como **HTML**, **CSS**, **JavaScript**, **React**, **Node.JS** e **Typescript** 
 
