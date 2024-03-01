@@ -40,7 +40,7 @@ Já conheço ferramentas como **HTML**, **CSS**, **JavaScript**, **React**, **No
   
   
 
-Você pode me chamar lá no Linkedin ou mandar um email para **eliasmanica@poli.ufrj.br**:
+Você pode me chamar lá no Linkedin ou mandar um email para **eliasmanica123@gmail.com**:
 <p align="left">
   <a href="https://linkedin.com/in/eliasmanica/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliasmanica/" height="30" width="40" /></a>
 </p>
